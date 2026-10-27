@@ -1,9 +1,13 @@
 Package: bamSim
-Title: What the Package Does (One Line, Title Case)
+Title: Simulate Fish Populations To Build Stock Assessment Input Files For The Beaufort Assessment Model (BAM)
 Version: 0.0.0.9000
-Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"))
-Description: What the package does (one paragraph).
+Authors@R:
+    person(given = "Nikolai", family = "Klibansky", role = c("aut", "cre"), email = "nikolai.klibansky@noaa.gov",
+           comment = c(ORCID = "0000-0003-2025-5089"))
+    person(given = "Kyle", family = "Shertzer", role = c("aut"))
+    person(given = "Rebecca", family = "Taylor", role = c("trl"), email = "rtaylor@vims.edu")
+    person(given = "Erik", family = "Williams", role = c("aut"), email = "erik.williams@noaa.gov")
+Description: Allows users to specify population dynamics to simulate fish populations and build stock assessment input files for use with the Beaufort Assessment Model (BAM)
 License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
     license
 Encoding: UTF-8
