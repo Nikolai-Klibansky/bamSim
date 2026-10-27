@@ -8,6 +8,8 @@
 #'
 #' @return P = values of function at x
 #'
+#' @author Kyle Shertzer and Nikolai Klibansky
+#'
 #' @aliases double.logistic
 #'
 #' @examples
