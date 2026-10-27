@@ -8,7 +8,7 @@
 #' @param R0 recruitment of unfished popn or equilibrium recruitment for the Null model, default is 100
 #' @param spr_F0 spawners per recruit of unfished popn, default is 1
 #'
-#' @author Kyle Shertzer, Erik Williams, and Nikolai Klibansky
+#' @author Kyle Shertzer and Nikolai Klibansky
 #'
 #' @aliases SR.fcn
 #'

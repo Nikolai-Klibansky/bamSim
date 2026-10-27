@@ -10,7 +10,7 @@
 #' @param spr_F0 spawners per recruit of unfished popn, default is 1
 #' @param spr_F spawners per recruit at fishing rate F
 #'
-#' @author Kyle Shertzer, Erik Williams, and Nikolai Klibansky
+#' @author Kyle Shertzer and Nikolai Klibansky
 #'
 #' @aliases SR.eq.fcn
 #'
